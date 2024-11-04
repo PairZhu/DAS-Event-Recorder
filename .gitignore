@@ -1,0 +1,7 @@
+### uni-app gitignore ###
+
+# 打包文件
+/unpackage/
+
+# HBuilderX
+/.hbuilderx/
