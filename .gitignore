@@ -5,3 +5,6 @@
 
 # HBuilderX
 /.hbuilderx/
+
+# 敏感信息
+private.*
